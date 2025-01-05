@@ -1,0 +1,6 @@
+Account Number, Transaction Type (Deposit/Withdrawal), Amount, Date
+364387,Deposit,300.0,2025-01-04
+364387,Withdrawal,200.0,2025-01-04
+364387,Deposit,100.0,2025-01-04
+364387,Withdrawal,300.0,2025-01-04
+364387,Deposit,100.0,2025-01-04
